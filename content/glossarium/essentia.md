@@ -3,7 +3,7 @@ title= "ESSENTIA"
 draft= false
 +++
 
-# ESSENTIA (Essência)
+# *ESSENTIA* (Essência)
 
 Definição:
 
